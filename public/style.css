@@ -1,0 +1,30 @@
+.container-fluid {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+table {
+    border: solid 1px;
+}
+
+form {
+    margin-left: 50px;
+    border: 1px solid;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.btn1 {
+    background-color: #4CAF50;
+}
